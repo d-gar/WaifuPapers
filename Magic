@@ -14,7 +14,7 @@
 
 		"collections": "SAO"
 
-		"downloadable": "false"
+		"downloadable": false,
 
 	},
 
@@ -32,7 +32,7 @@
 
 		"collections": "Konosuba,Amoled"
 
-		"downloadable": "true"
+		"downloadable": true,
 
 	},
 
@@ -50,7 +50,7 @@
 
 		"collections": "Kuma³ Bear",
 
-		"downloadable": "true"
+		"downloadable": true,
 
 	},
 
