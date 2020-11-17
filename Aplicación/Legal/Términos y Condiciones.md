@@ -13,4 +13,5 @@ Si está utilizando la aplicación fuera de un área con Wi-Fi, debe recordar qu
 También es posible que deseemos dejar de proporcionar la aplicación y podemos cancelar su uso en cualquier momento sin notificarle la terminación. A menos que le indiquemos lo contrario, tras cualquier rescisión, (a) los derechos y licencias que se le otorgan en estos términos terminarán; (b) debe dejar de usar la aplicación.
 
 **Cambios a estos términos y condiciones**
+
 Test
