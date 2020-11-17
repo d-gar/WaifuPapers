@@ -15,3 +15,7 @@ También es posible que deseemos dejar de proporcionar la aplicación y podemos 
 **Cambios a estos términos y condiciones**
 
 Puedo actualizar nuestros Términos y Condiciones de vez en cuando. Por lo tanto, le recomendamos que revise esta página periódicamente para ver si hay cambios. Le notificaré cualquier cambio publicando los nuevos Términos y condiciones en esta página. Estos cambios entran en vigencia inmediatamente después de su publicación en esta página.
+
+**Contacto**
+
+Si tiene alguna pregunta o sugerencia sobre mis Términos y condiciones, no dude en ponerse en contacto conmigo en dagarace.0@gmail.com.com .
