@@ -1,9 +1,9 @@
 ## Beta Tester
-*  Daisuki Kurosawa Chan
+**Daisuki Kurosawa Chan**
 [https://www.facebook.com/daisuki.chan.357]
-* Deivy
+**Deivy**
 [https://www.facebook.com/profile.php?id=100007531517033]
-* Luis Javier Duran
+**Luis Javier Duran**
 [https://www.facebook.com/LuisJ.Kubo]
-* Deysi K.
+**Deysi K.**
 [https://www.facebook.com/deysi.k.gg]
